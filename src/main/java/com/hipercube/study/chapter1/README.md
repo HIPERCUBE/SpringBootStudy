@@ -1,4 +1,6 @@
-# Chapter1 : Hello, Spring boot
+# Chapter1 : Hello, SpringBoot Service
+
+Simple 'Hello, Spring boot' source.
 
 ### Gradle Setting
 ```
